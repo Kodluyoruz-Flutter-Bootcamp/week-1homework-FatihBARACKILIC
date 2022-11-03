@@ -10,7 +10,7 @@ Simple Calculator
 
 A calculator that can do 4 operations
 
-Basit bir hesap makinesi
+Basit hesap makinesi
 
 4 işlemi yapabilen bir hesap makinesi
 
