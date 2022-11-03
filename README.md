@@ -14,8 +14,6 @@ Basit bir hesap makinesi
 
 4 işlemi yapabilen bir hesap makinesi
 
-![calculator](./assets/app-ss.jpg)
-
 ## Author
 
 Fatih BARAÇKILIÇ
